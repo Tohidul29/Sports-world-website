@@ -1,5 +1,5 @@
 # Sports-world-website
-This is a sporst website
+This is a sport website
 
 ## Deployment
 This website is deployed on Netlify. [Click here](https://brave-ramanujan-25af5c.netlify.app) to visit.
