@@ -1,2 +1,7 @@
 # Sports-world-website
-https://brave-ramanujan-25af5c.netlify.app/?fbclid=IwAR0TqGllAjaoDE7-EMLxHKxJgq_WaLijeBrFpcpJAvSEB_FX3jyY2Azw6sI
+This is a sporst website
+
+## Deployment
+This website is deployed on Netlify. [Click here](https://brave-ramanujan-25af5c.netlify.app) to visit.
+<br>
+You can also go direct this link: `https://brave-ramanujan-25af5c.netlify.app`
